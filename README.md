@@ -25,8 +25,6 @@ Step 6: Enter the code in MainActivity file.
 
 Step 7: Save and run the application.
 
-<br><br><br><br><br><br><br><br><br>
-
 ## PROGRAM:
 ```
 /*
@@ -99,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 
-<br><br><br><br><br><br><br><br><br><br>
+
 
 ### DatabaseManager.java
 ```
@@ -338,9 +336,6 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 ## OUTPUT:
 
 
-
-<br><br><br><br><br><br>
-
 ### Insert
 ![a](https://user-images.githubusercontent.com/75235132/200256523-2227375b-64b3-41dd-8c70-57724c66c148.jpg)
 
@@ -349,7 +344,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 
 ![b](https://user-images.githubusercontent.com/75235132/200256548-fcc0a023-88ab-4fae-b8f6-862477289509.jpg)
 
-<br><br><br><br>
+
 
 ### Update
 ![c](https://user-images.githubusercontent.com/75235132/200256572-674fd4a9-b0bb-4e56-85c8-77239bb31555.jpg)
